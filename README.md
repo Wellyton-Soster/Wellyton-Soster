@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Me chamo Wellyton, estou estudando front end (html, css, Java Scrypt e React). Moro em Guaraniaçu interior do Paraná (BR), atualmente sou técnico ambiental e atuo como diretor de vigilância ambiental, confesso que tenho medo da mudança de carreira e me sinto ainda inseguro, mas estou caindo de cabeça nessa área e estudando muito para superar o medo da transição e me tornar o melhor possível.<h2/>
-  <br>
+<h4>Me chamo Wellyton, estou estudando front end (html, css, Java Scrypt e React). Moro em Guaraniaçu interior do Paraná (BR), atualmente sou técnico ambiental e atuo como diretor de vigilância ambiental, confesso que tenho medo da mudança de carreira e me sinto ainda inseguro, mas estou caindo de cabeça nessa área e estudando muito para superar o medo da transição e me tornar o melhor possível.<h4/>
   <br>
 <h3>Competências em:</h3>
   
