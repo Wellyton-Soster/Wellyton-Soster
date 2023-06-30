@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 <br>
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellyton-Soster&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellyton-Soster&layout=compact&theme=dracula)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellyton-Soster&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellyton-Soster&layout=compact&theme=dracula)
 <br/>
 <br/>
 <br/>
