@@ -35,6 +35,5 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <h3>Visite meus perfis, deixa um oi lá.</h3>
-<a href="https://www.facebook.com/wellyton.soster"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/><a/>
 <a href="https://www.instagram.com/sosterwe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
 <a href="https://www.linkedin.com/in/wellyton-soster-57b199274/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/> <a href="https://wa.me/5545988306022?text=Oi, vim pelo Github"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
