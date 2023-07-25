@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h4>Me chamo Wellyton, estou estudando front end (html, css, Java Scrypt e React). Moro em Guaraniaçu interior do Paraná (BR), atualmente sou técnico ambiental e atuo como diretor de vigilância ambiental, confesso que tenho medo da mudança de carreira e me sinto ainda inseguro, mas estou caindo de cabeça nessa área e estudando muito para superar o medo da transição e me tornar o melhor possível.<h4/>
   <br>
+<img src="https://visitor-badge.feriirawann.repl.co/?username=Wellyton-Soster&repo=Wellyton-Soster&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Wellyton" height="28px" />
 <h3>Competências em:</h3>
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
